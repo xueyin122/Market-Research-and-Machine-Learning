@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[76]:
-
-
 # pip install tweepy
 # !pip install pyLDAvis
 # !pip install spacy-langdetect
