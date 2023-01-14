@@ -1,5 +1,4 @@
 # Market-Research-and-Machine-Learning
-Utilize machine learning techniques to do market research
 
 I used “activision blizzard” as my keyword and web-scraped 1,000 English tweets on 1/13/2023. After getting the raw tweets, I did some basic cleaning, including removing stop words, URLs, and at-mentions. I then ran a counter and found the most common 15 words in the scraped tweets. The top three words are nvidia (mentioned 716 times), google (mentioned 573 times), and microsoft (mentioned 444 times).
 
